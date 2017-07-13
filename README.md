@@ -1,2 +1,2 @@
-# stevex2.github.io
-Website
+# stevemwiti.github.io
+My Resume
